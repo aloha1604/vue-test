@@ -1,6 +1,5 @@
 <template>
     <div class="hello">
-       
         <mdb-btn color="primary">Primary</mdb-btn>
     </div>
 </template>
